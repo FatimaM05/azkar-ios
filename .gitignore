@@ -42,5 +42,6 @@ fastlane/metadata/trade_representative_contact_information
 fastlane/README.md
 fastlane/Preview.html
 fastlane/.env
-.env
 Azkar/Resources/Secrets.plist
+config.bat
+node_modules

@@ -1,5 +1,7 @@
 #!/opt/homebrew/bin/python3
 
+import utils.transport
+import utils.session
 import requests
 import zipfile
 from io import BytesIO
